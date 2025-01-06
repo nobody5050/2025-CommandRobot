@@ -1,0 +1,3 @@
+[submodule "SubZero-common"]
+	path = SubZero-common
+	url = https://github.com/SubZero-Robotics/SubZero-common
